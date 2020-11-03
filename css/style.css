@@ -3,7 +3,6 @@ html, body {
   height: 100%;
   overflow: hidden;
 }
-
 body {
   background: #FFFFFF;
   color:#8E8E8E;
@@ -82,7 +81,9 @@ a, a:active, a:visited {
   width: 100%;
   text-align: center;
   display: block;
-  background:#FFF;
+  /* background:#FFF; */
+  background-color:rgba(255,0,0,0);
+
 }
 
 /* =======================MEDIA QUERIES==================================== */
